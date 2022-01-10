@@ -1,10 +1,10 @@
-to initialize the configuration file
+To initialize the configuration file
 > terraform init
 
-Create execution plan and save the plan in output.terraform file
+To create execution plan and save the plan in output.terraform file
 > terraform plan -out=output.terraform
 
-to apply the changes
+To apply the changes
 > terraform apply output.terraform
 
 note: var.tfvars is ignored to upload in git repo for security reason
