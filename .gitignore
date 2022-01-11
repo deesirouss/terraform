@@ -1,3 +1,8 @@
 /first/*.tfvars
 /first/.terraform.lock.hcl
 /first/.terraform/
+/*/*.tfvars
+/*/.terraform.lock.hcl
+/*/.terraform/
+/*/terraform.tfstate
+/*/terraform.tfstate.backup
