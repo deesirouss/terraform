@@ -1,5 +1,5 @@
 variable "myvar" {
-  type = string
+  type    = string
   default = "hello terraform"
 }
 variable "mymap" {
@@ -9,6 +9,6 @@ variable "mymap" {
   }
 }
 variable "list" {
-  type = list
-  default = [1,2,3]
+  type    = list(any)
+  default = [1, 2, 3]
 }

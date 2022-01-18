@@ -1,0 +1,15 @@
+variable "vpc_cidr" {
+  description = "VPC default CIDR"
+  default     = "10.0.0.0/16"
+}
+
+variable "instance_tenancy" {
+  description = "VPC default instance_tenancy"
+  default     = "default"
+}
+
+variable "environment" {
+  description = "default environment"
+  default     = "demo"
+}
+
