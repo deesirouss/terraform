@@ -8,4 +8,4 @@ learning terraform and commit daily learnt things to keep track of
 ## [Fourth_day](https://github.com/deesirouss/terraform/tree/main/fourth_day) contains custom [modules](https://github.com/deesirouss/terraform/tree/main/fourth_day/modules/vpc) scratch codes and [dev environment example](https://github.com/deesirouss/terraform/tree/main/fourth_day) to create 3-tier VPC architecture for (Presentation, Logical and Database) tiers.
 ## [Fifth_day](https://github.com/deesirouss/terraform/tree/main/fifth_day) tried to create static website using S3 Bucket
 ## [Sixth_day](https://github.com/deesirouss/terraform/tree/main/sixth_day) tried to create VPC ( Public and Private) Subnets(using cidrsubnet function) in Terraform cloud
-## [Seventh_day](https://github.com/deesirouss/terraform/tree/main/seventh_day) has multiple commits using backend(local)
+## [Seventh_day](https://github.com/deesirouss/terraform/tree/main/seventh_day) has multiple commits using backend(local, s3)
